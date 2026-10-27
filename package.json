@@ -1,0 +1,19 @@
+{
+  "name": "postdon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "awilix": "^13.0.5",
+    "dotenv": "^18.0.9",
+    "googleapis": "^188.0.0",
+    "node-telegram-bot-api": "^2.1.0"
+  }
+}
